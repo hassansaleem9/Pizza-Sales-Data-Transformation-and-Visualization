@@ -1,1 +1,2 @@
-# Pizza-Sales-Data-Transformation-and-Visualization
+# Description
+Welcome to the project! Developed a comprehensive data integration and reporting system involving several key technologies. Designed and implemented a pipeline in Azure Data Factory to transfer data from an on-premises SQL Server to Azure Blob Storage. Configured Databricks to connect to the Blob Storage for data processing and aggregation. Created business-critical KPIs and built interactive dashboards using Power BI for insightful reporting and decision-making.
